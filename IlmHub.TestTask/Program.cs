@@ -5,7 +5,7 @@ using Telegram.Bot.Types.Enums;
 using Microsoft.Extensions.Configuration;
 using System.Net;
 
-var botToken = "6903708788:AAHIdVngvER_UcjVO7hNO5N1bTBQJketW0c"; // pls put you tg bot token 
+var botToken = ""; // pls put you tg bot token 
 var botClient = new TelegramBotClient(botToken);
 var httpClient = new HttpClient();
 
